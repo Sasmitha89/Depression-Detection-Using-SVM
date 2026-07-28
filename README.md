@@ -231,7 +231,7 @@ SVM with sigmoid kernel - Accuracy: 0.7754
 
 Sasmitha Jayawardhana
 
-BSc (Hons) Information Technology
+BSc (Hons) Computer Systems and Network Engineering
 
 Sri Lanka Institute of Information Technology (SLIIT)
 
